@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustafa Emin</h1>
-<h3 align="center">I'm a Frontend Developer.</h3>
+<h3 align="center">I'm a FrontEnd Developer.</h3>
 
 - 📫 Email: **mustafaeminbosnali@gmail.com**
 
